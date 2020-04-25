@@ -1,0 +1,22 @@
+{
+  "name": "harbor-ai-sample-app-npm",
+  "version": "0.0.1",
+  "description": "sample app for streaming api using node server to communicate with harbor ai exchange",
+  "main": "index.js",
+  "dependencies": {
+    "@harbor-ai/harbor-ai-streaming-npm": "^0.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harbor-ai/harbor-ai-sample-app-npm.git"
+  },
+  "author": "hadfield",
+  "license": "Proprietary",
+  "bugs": {
+    "url": "https://github.com/harbor-ai/harbor-ai-sample-app-npm/issues"
+  },
+  "homepage": "https://github.com/harbor-ai/harbor-ai-sample-app-npm#readme"
+}
